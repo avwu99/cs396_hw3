@@ -113,7 +113,7 @@ const validateForm = () => {
 
     var vals = {
         name : form['name'].value,
-        seasons : form['seasons'].value,
+        seasons : seasons,
         ordering : form['ordering'].value,
         image_url : form['image_url'].value
     };
