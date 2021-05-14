@@ -1,4 +1,4 @@
-const baseURL = 'http://localhost:8081';
+const baseURL = 'https://cs396-hw3-avwu99.herokuapp.com';
 
 let doctors
 let doctorComp = {}
